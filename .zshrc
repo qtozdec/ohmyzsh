@@ -20,7 +20,7 @@ plugins=(
 ZSH_WEB_SEARCH_ENGINES=(
     ya "https://yandex.ru/yandsearch?text="
 )
-source $ZSH/autols.zsh
+source $ZSH_CUSTOM/autols.zsh
 
 #. ~/.oh-my-zsh/custom/plugins/z.sh
 #. ~/.oh-my-zsh/custom/plugins/ls.zsh
